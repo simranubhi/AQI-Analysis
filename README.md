@@ -31,4 +31,4 @@ An AQI analysis dashboard built using R to explore air-quality data, analyze pol
 The large raw datasets `city_hour.csv` and `station_hour.csv` are not included in this repository. Add them to `data/raw/` locally if your application requires them.
 
 ## Author
-Add your name here.
+Simran Kaur
